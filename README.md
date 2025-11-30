@@ -13,7 +13,7 @@ It includes the base DQN implementation, environment wrappers, and helper functi
 ---
 ## Results
 Gameplay Videos:
-- [Early policy run](early_run.mp4)
-- [Final DDQN run](final_run.mp4)
+- [Early policy run](early.mp4)
+- [Final DDQN run](later.mp4)
 
 The final DDQN agent demonstrates smoother Q-value estimates, improved stability, and noticeable improvement in gameplay compared to the baseline settings.
