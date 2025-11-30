@@ -11,7 +11,7 @@ Original repository: [Starter Code](https://github.com/everestso/summer25/blob/m
 It includes the base DQN implementation, environment wrappers, and helper functions.
 
 ---
-##Results
+## Results
 Gameplay Videos:
 
 Early policy:
