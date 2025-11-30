@@ -13,11 +13,7 @@ It includes the base DQN implementation, environment wrappers, and helper functi
 ---
 ## Results
 Gameplay Videos:
-
-Early policy:
-<video src="https://github.com/Cd881/CSCI166Project/blob/main/early.mp4" controls width="480"></video>
-
-Final DDQN run:
-<video src="https://github.com/Cd881/CSCI166Project/blob/main/later.mp4" controls width="480"></video>
+- [Early policy run](early_run.mp4)
+- [Final DDQN run](final_run.mp4)
 
 The final DDQN agent demonstrates smoother Q-value estimates, improved stability, and noticeable improvement in gameplay compared to the baseline settings.
